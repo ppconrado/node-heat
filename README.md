@@ -20,3 +20,4 @@ yarn add jsonwebtoken
 yarn add @types/jsonwebtoken -D
 
 yarn prisma migrate dev
+yarn add @prisma/client
