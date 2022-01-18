@@ -15,3 +15,6 @@ return response.json(code);
 
 yarn add axios
 yarn add @types/axios -D
+
+yarn add jsonwebtoken
+yarn add @types/jsonwebtoken -D
